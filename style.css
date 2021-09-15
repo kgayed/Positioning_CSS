@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+}
+
+html{
+    height: 100%;
+}
+
+.box{
+    height: 80px;
+    width: 80px;
+    background-color: black;
+    float: right;
+    padding: 8px;
+
+
+
+}
+nav{
+    background-color: white;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    height: 80px;
+    width: 100%;
+    padding: 8px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.container{
+    height: 800px;
+    background-color: gray;
+    margin: 0;
+}
+.box1,.box2,.box3,.box4{
+    background-color: white;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+
+}
+footer{
+    width: 100%;
+    height: 80px;
+    background-color: blueviolet;
+    border-style:solid;
+    border-top: 2px black;
+
+}
